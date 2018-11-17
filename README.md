@@ -16,8 +16,21 @@ Name 2: Mario
 2. will merge local branch to master
 
 Name 3: Leonardo
-1. Will Review the code and make changes accordingly
-2. will merge local branch to master
+1. Reviewed the code and made the following changes:
+    -Changed single histogram to have one histogram for each variable.
+    -Changed chart lables/title
+    -Changed wording in markdown cells
+    -Formated scatter plots.
+    -Changed bar plot colors and added titles for cancer types
+    -Rounded .describe() summary statitic results 
+    -Changed scatter plot colors 
+    -Added correlation analysis
+    -Added standard deviation analysis
+    -Added variance analysis
+    -Added mode analysis
+    -Added final sumerization of data narrative
+2. Pushed desktop branch to github branch
+3. Pending review from team to merge to master 
 
 # Phase 2
 Name 1: Sachin Sharma
