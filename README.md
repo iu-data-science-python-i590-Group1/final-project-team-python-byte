@@ -14,7 +14,9 @@ Name 1: Sachin Sharma
 Name 2: Mario
 1. Reviewed Code and made sure the same calculations could be done in PyCharm as were done in Jupyter.
    - Made sure all calculations are done and consistent throughout the entire project. For example the mean was calculated and filled into the correct NAN fields.
-2. Made sure each bullet point was completed from the list of tasks assigned in the Assignment Details. Below are the specifics:
+2. Made sure the code would work on a variety of environments
+3. Reviewed if different sets of code arrived at the same conclusion (example handling a task in pandas two different ways)
+QA process steps. Made sure each bullet point was completed from the list of tasks assigned in the Assignment Details. Below are the specifics:
     - Completed: Replace ? by NaN in column A7. Use ____.replace('?', np.NaN) - but properly specify A7 column. (Completed Under Markdown 'Replace ? by NaN in column A7'
     - Completed: After replacing - your column needs to be converted back to numeric. Apply pandas function pd.to_numeric() for column A7 - Shown through printing the datatype as an object, then shown through changing through to_numeric function
     - Completed: Report how many NaN. Use isnull() function applied to the dataframe. Then you can use arithmetic sum(): Shown after Markdown 'Check Null Values and Total Count'
