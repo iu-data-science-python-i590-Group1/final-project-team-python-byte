@@ -12,21 +12,38 @@ Name 1: Sachin Sharma
 6. Merged my branch 'final-project-phase-1-sacshar' to master and verify that code is running successffully
 
 Name 2: Leonardo
-1. Reviewed the code and made the following changes:
-    -Changed single histogram to have one histogram for each variable.
-    -Changed chart lables/title
-    -Changed wording in markdown cells
-    -Formated scatter plots.
-    -Changed bar plot colors and added titles for cancer types
-    -Rounded .describe() summary statitic results 
-    -Changed scatter plot colors 
-    -Added correlation analysis
-    -Added standard deviation analysis
-    -Added variance analysis
-    -Added mode analysis
-    -Added final sumerization of data narrative
-2. Pushed desktop branch to github branch
-3. Review done and merged to master 
+1.	Reviewed the code and completed each step of phase I assignment.
+
+2.	Made the following changes:
+
+    •	Changed single histogram to have one histogram for each variable.
+    
+    •	Changed chart labels/title
+    
+    •	Changed wording in markdown cells
+    
+    •	Formatted scatter plots.
+    
+    •	Changed bar plot colors and added titles for cancer types
+    
+    •	Rounded .describe() summary statistic results 
+    
+    •	Changed scatter plot colors 
+    
+    •	Added correlation analysis
+    
+    •	Added standard deviation analysis
+    
+    •	Added variance analysis
+    
+    •	Added mode analysis
+    
+    •	Added final summarization of data narrative
+
+3.	Pushed desktop branch to GitHub branch.
+
+4.	Review done and merged to master.
+
 
 Name 3: Mario
 1. Reviewed Code and made sure the same calculations could be done in PyCharm as were done in Jupyter.
