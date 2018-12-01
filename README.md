@@ -45,15 +45,6 @@ Phase1:
 
 4.	Review done and merged to master.
 
-Phase2:
-1. Added the scatter matrix.
-2. Increased the size of the inertia plot.
-3. Added the Optimal Number of Clusters Analysis.
-4. Rounded the standard deviation values.
-5. Created the plot showing all standard deviation values.
-6. Created a different box plot that included all variable in one plot.
-7. Added the Data Variation Analysis.
-
 
 Name 3: Mario
 1. Reviewed Code and made sure the same calculations could be done in PyCharm as were done in Jupyter.
@@ -78,6 +69,17 @@ Name 1: Sachin Sharma
 Name 2: Mario
 
 Name 3: Leonardo
+
+1. Reviewed the code and completed each step of phase II assignment.
+2. Added the scatter matrix.
+2. Increased the size of the inertia plot.
+3. Added the Optimal Number of Clusters Analysis.
+4. Rounded the standard deviation values.
+5. Created the plot showing all standard deviation values.
+6. Created a different box plot that included all variable in one plot.
+7. Added the Data Variation Analysis.
+8. Pushed desktop branch to GitHub branch.
+9. Review completed and merged to master.
 
 # Phase 3
 Name 1: Sachin Sharma
