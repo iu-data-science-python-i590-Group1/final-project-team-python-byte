@@ -8,8 +8,14 @@ Name 1: Sachin Sharma
 2. Added Folder structure with Code and Data
 3. Added 'BreastCancerWisconsin.csv' file in data folder
 4. Added main file 'FinalAssignment-Phase1.ipynb' in code folder
-5. Implemented solution for phase 1 assignment as per instruction added markup
-6. Merged my branch 'final-project-phase-1-sacshar' to master and verify that code is running successffully
+5. Implemented solution for phase 1 assignment as per instruction and added markup
+    ~ Data cleaning - report Number of NaN, replace ?, impute NaN by the column mean
+    ~ Data Stats
+    ~ Plotting Scatterplot and Bar Plot must have titles,y axis and x axis names, non-default colors. 9 histograms (subfigures) do not         have to have titles
+    ~ Import libraries, Proper data import
+    ~ Github set up with one folder for code and one folder for dataset
+    ~ Readme file with contributions
+ 6. Merged my branch 'final-project-phase-1-sacshar' to master and verify that code is running successffully
 
 Name 2: Leonardo
 1.	Reviewed the code and completed each step of phase I assignment.
@@ -63,8 +69,12 @@ QA process steps. Made sure each bullet point was completed from the list of tas
 Name 1: Sachin Sharma
 1. Added file 'FinalAssignment-Phase2.ipynb' in code folder
 2. Implemented solution for phase 2 assignment as per instructions and added markup
-3. Merged my branch to master and verify that code is running successffully
-4. Review the code and make it to the closure
+    ~ Use KMeans algorithm (do not use column CLASS)
+    ~ Find the optimal number of clusters
+    ~ Revise data variation
+    ~ Implement normalization
+3. Updated & Merged my branch to master and verify that code is running successffully
+4. Reviewed the code and make it to the closure
 
 Name 2: Leonardo
 1. Reviewed the code and completed each step of phase II assignment.
