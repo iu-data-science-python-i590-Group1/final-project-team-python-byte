@@ -14,7 +14,6 @@ Name 1: Sachin Sharma
 Name 2: Leonardo
 Phase1:
 1.	Reviewed the code and completed each step of phase I assignment.
-
 2.	Made the following changes:
 
     •	Changed single histogram to have one histogram for each variable.
@@ -34,16 +33,13 @@ Phase1:
     •	Added correlation analysis
     
     •	Added standard deviation analysis
-    
     •	Added variance analysis
-    
     •	Added mode analysis
-    
     •	Added final summarization of data narrative
 
 3.	Pushed desktop branch to GitHub branch.
-
 4.	Review done and merged to master.
+5.  Submitted assignment in Canvas.
 
 
 Name 3: Mario
