@@ -7,7 +7,7 @@ Name 1: Sachin Sharma
 1. Project setup on GITHUB with all required folder structure
 2. Added Folder structure with Code and Data
 3. Added 'BreastCancerWisconsin.csv' file in data folder
-4. Added main file 'FinalAssignment-Phase1.ipynb' file
+4. Added main file 'FinalAssignment-Phase1.ipynb' in code folder
 5. Implemented solution for phase 1 assignment as per instruction added markup
 6. Merged my branch 'final-project-phase-1-sacshar' to master and verify that code is running successffully
 
@@ -59,12 +59,14 @@ QA process steps. Made sure each bullet point was completed from the list of tas
 
 
 # Phase 2
+
 Name 1: Sachin Sharma
+1. Added file 'FinalAssignment-Phase2.ipynb' in code folder
+2. Implemented solution for phase 2 assignment as per instructions and added markup
+3. Merged my branch to master and verify that code is running successffully
+4. Review the code and make it to the closure
 
-Name 2: Mario
-
-Name 3: Leonardo
-
+Name 2: Leonardo
 1. Reviewed the code and completed each step of phase II assignment.
 2. Added the scatter matrix.
 2. Increased the size of the inertia plot.
@@ -75,6 +77,8 @@ Name 3: Leonardo
 7. Added the Data Variation Analysis.
 8. Pushed desktop branch to GitHub branch.
 9. Review completed and merged to master.
+
+Name 2: Mario
 
 # Phase 3
 Name 1: Sachin Sharma
