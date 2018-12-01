@@ -12,7 +12,6 @@ Name 1: Sachin Sharma
 6. Merged my branch 'final-project-phase-1-sacshar' to master and verify that code is running successffully
 
 Name 2: Leonardo
-Phase1:
 1.	Reviewed the code and completed each step of phase I assignment.
 2.	Made the following changes:
 
