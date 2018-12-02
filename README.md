@@ -89,7 +89,7 @@ Name 2: Leonardo
 9. Review completed and merged to master.
 
 Name 2: Mario
-    - Review and verified of compltion status of all items as per instruction
+    - Reviewed and verified of all task's completion status as per instruction
 
 # Phase 3
 Name 1: Sachin Sharma
