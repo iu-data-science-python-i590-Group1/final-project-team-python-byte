@@ -88,8 +88,15 @@ Name 2: Leonardo
 8. Pushed desktop branch to GitHub branch.
 9. Review completed and merged to master.
 
-Name 2: Mario
-    - Reviewed and verified of all task's completion status as per instruction
+Name 2: Mario Angelier
+1. Reviewed code. Made sure each item was complete based on phase II requirements2. 
+2. Added shape of centoid array. Allows users to see the shape in addition to the details
+3. Added Context to which features have the most variability
+4. Added Context on the ideal number of clusers from KMeans on this dataset
+5. Made sure we followed requirements in order as they were requested
+6. Pushed local branch
+7. Team merged into final master branch
+Extra Note - Seems like on this phase we had done duplicated work however in both cases individually the team arrived at the same result
 
 # Phase 3
 Name 1: Sachin Sharma
