@@ -101,6 +101,12 @@ Extra Note - Seems like on this phase we had done duplicated work however in bot
 # Phase 3
 Name 1: Sachin Sharma
 
-Name 2: Mario
+Name 2: Mario Angelier
+1. Created Dataframe to import into KMeans model
+2. Created labels based on new cluster parameters
+3. Merged labels into original dataframe
+4. Created the Error Rate function
+5. Printed out each Error Rate based on the return of the function.
+6. Pushed local Phase 3 branch to the master
 
 Name 3: Leonardo
