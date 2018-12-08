@@ -110,3 +110,9 @@ Name 2: Mario Angelier
 6. Pushed local Phase 3 branch to the master
 
 Name 3: Leonardo
+1. Reviewed the code and completed each step of phase III assignment.
+2. Adjusted code to remove "SCN" column and keep "Class" 
+3. Added the density plot for analysis.
+4. Added the Report Statement.
+5. Pushed desktop branch to GitHub branch.
+6. Review completed and merged to master.
