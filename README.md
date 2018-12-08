@@ -112,6 +112,7 @@ Name 2: Mario Angelier
 Name 3: Leonardo
 1. Reviewed the code and completed each step of phase III assignment.
 2. Adjusted code to remove "SCN" column and keep "Class" 
+3. Removed unnecessary analysis
 3. Added the density plot for analysis.
 4. Added the Report Statement.
 5. Pushed desktop branch to GitHub branch.
