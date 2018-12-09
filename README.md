@@ -100,6 +100,10 @@ Extra Note - Seems like on this phase we had done duplicated work however in bot
 
 # Phase 3
 Name 1: Sachin Sharma
+1. Reviewed the complete code as per instructions.
+2. Verified the final code to closure
+3. Filter and Merged all final work in phase 3 file.
+4. Merged final code to master branch.
 
 Name 2: Mario Angelier
 1. Created Dataframe to import into KMeans model
